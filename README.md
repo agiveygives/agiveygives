@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <a href="https://andrewgivens.net">
-    <img height="200" align="center" src="https://andrewgivens.net/images/bitmoji/bird-friends.png" />
+    <img height="200px" width="200px" align="center" src="https://andrewgivens.net/images/bitmoji/bird-friends.png" />
   </a>
 <div>
 
